@@ -161,6 +161,9 @@ section {
         transition: 0.5s;
         font-size: 20px;
     }
+    .titulos {
+        align-items: center;
+    }
     
 }
 
