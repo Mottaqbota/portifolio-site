@@ -157,6 +157,11 @@ section {
     .conhec {
         margin-top: 2vh;
     }
+    .chns-txt {
+        transition: 0.5s;
+        font-size: 20px;
+    }
+    
 }
 
 
