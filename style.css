@@ -5,7 +5,8 @@
     text-decoration: none;
 }
 
-a {
+.cnhss {
+    font-size: 15px;
     font-family: Poppins;
     color: rgb(221, 221, 221);
 }
