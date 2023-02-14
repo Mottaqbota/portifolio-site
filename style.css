@@ -23,7 +23,6 @@ body {
     overflow-x: hidden;
     user-select: none;
     cursor: default;
-    font-size: 100%;
     background: rgb(28,28,28);
     background: radial-gradient(circle, rgb(22, 22, 22) 0%, rgb(11, 11, 11) 100%);
 }
@@ -45,7 +44,7 @@ section {
     font-family: 'Poppins'; 
     display: flex;
     gap: 10vh;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .botoes-nav {
